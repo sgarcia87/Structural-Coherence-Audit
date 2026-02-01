@@ -168,13 +168,10 @@ This license allows academic and industrial use while preserving attribution and
 
 If you use or discuss this work, please cite:
 
-```bibtex
-@misc{garciamecinas2026structuralcoherence,
-  title={Detecting Structural Coherence Loss in Semantic Systems Under Perspective Shift},
-  author={Garcia Mecinas, Sergi},
-  year={2026},
-  note={Preprint}
-}
+title={Detecting Structural Coherence Loss in Semantic Systems Under Perspective Shift},
+author={Garcia Mecinas, Sergi},
+year={2026},
+note={Preprint}
 ```
 
 ---
