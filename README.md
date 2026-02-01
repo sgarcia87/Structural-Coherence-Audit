@@ -172,7 +172,6 @@ title={Detecting Structural Coherence Loss in Semantic Systems Under Perspective
 author={Garcia Mecinas, Sergi},
 year={2026},
 note={Preprint}
-```
 
 ---
 
