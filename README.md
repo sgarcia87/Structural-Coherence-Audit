@@ -1,7 +1,6 @@
 # Structural-Coherence-Audit
 Reference implementation accompanying the paper on structural coherence loss, formalizing perspective-induced divergence via Jensen-Shannon distance over PPR dynamics.
 
-# Structural Coherence Audit
 
 Minimal, reproducible experiment for detecting **structural coherence loss** in semantic systems under **perspective shift**.
 
